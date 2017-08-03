@@ -1,5 +1,7 @@
 FROM centos:7
 
+MAINTAINER xiaolong<xiaolong19880403@163.com>
+
 # grab gosu for easy step-down from root
 ENV GOSU_VERSION 1.10
 
